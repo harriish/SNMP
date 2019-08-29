@@ -51,7 +51,12 @@ OID*: Rate of OID* between the last two successful samples
 As an example:
 
 1504083911  | 2124 | 819 | 0 | 281761 
+
+
 1504083912  | 2471 | 819 | 110 | 450782 
+
+
+
 1504083913  | 1904 | 819 | 2000 | 325448 
  
 

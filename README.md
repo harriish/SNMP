@@ -5,7 +5,7 @@ Write a script to probe the an SNMP agent and find the rate of change for severa
 
 The script will be invoked as follows:
 
-prober <Agent IP:port:community> <sample frequency> <samples> <OID1> <OID2> …….. <OIDn>
+prober <Agent IP:port:community> <sample frequency> <samples> <OID1> 
 
  
 

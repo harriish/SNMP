@@ -110,3 +110,5 @@ References
 Introduction to GIT (Links to an external site.).
 
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+Note: Test script is not included in this repository.
